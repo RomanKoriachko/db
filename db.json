@@ -1,0 +1,22 @@
+{
+    "mcdonalds": [
+        {
+            "id": 1,
+            "title": "burger-1"
+        },
+        {
+            "id": 2,
+            "title": "burger-2"
+        }
+    ],
+    "kfc": [
+        {
+            "id": 1,
+            "title": "kfc-1"
+        },
+        {
+            "id": 2,
+            "title": "kfc-2"
+        }
+    ]
+}
